@@ -6,4 +6,7 @@
 *** [[https://solid.inrupt.com/ Solid]]
 ** Web/Frontend \ndevelopment in Go
 *** [[https://github.com/gopherjs/vecty Vecty]]
+** CICD built into git hosts
+*** [[https://help.github.com/en/actions/automating-your-workflow-with-github-actions Github Actions]]
+*** [[https://confluence.atlassian.com/bitbucket/build-test-and-deploy-with-pipelines-792496469.html BitBucket Pipelines]]
 @endmindmap
