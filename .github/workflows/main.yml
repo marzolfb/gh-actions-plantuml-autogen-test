@@ -1,4 +1,4 @@
-name: CI
+name: Autogenerate & commit diagram image
 
 on: [push]
 
@@ -25,10 +25,4 @@ jobs:
         force: false
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - name: Run a one-line script
-      run: "echo Hello, world! > testme.txt"
-    - name: Run a multi-line script
-      run: |
-        ls -l ./
-        echo Add other actions to build,
-        echo test, and deploy your project.
+  

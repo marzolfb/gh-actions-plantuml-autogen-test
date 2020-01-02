@@ -1,7 +1,9 @@
 @startmindmap
 * Things I've looked at today
 ** Getting control of \n personal data you own
-*** Perkeep - https://perkeep.org/
-*** Upspin - https://upspin.io/
-*** Solid - https://solid.inrupt.com/
+*** [[https://perkeep.org/ Perkeep]]
+*** [[https://upspin.io/ Upspin]]
+*** [[https://solid.inrupt.com/ Solid]]
+** Web/Frontend \ndevelopment in Go
+*** [[https://github.com/gopherjs/vecty Vecty]]
 @endmindmap
